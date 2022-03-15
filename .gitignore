@@ -1,0 +1,8 @@
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.properties
+.idea
+gradle/
+build/

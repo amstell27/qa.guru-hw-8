@@ -1,0 +1,8 @@
+{
+  "name": "Sergey",
+  "surname": "Ilin",
+  "address": {
+    "street": "Kirova",
+    "house": "22"
+  }
+}
